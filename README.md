@@ -18,5 +18,5 @@ These links give some background on machine learning and how to start using it f
 
 * [Software Carpentry training](https://software-carpentry.org)
 * [Tensor Flow Neural Network coding](https://www.tensorflow.org)
-* [Tensor FLow Neural Network playground](https://playground.tensorflow.org)
+* [Tensor Flow Neural Network playground](https://playground.tensorflow.org)
 * [Tensor Flow learning ML](https://www.tensorflow.org/resources/learn-ml)
